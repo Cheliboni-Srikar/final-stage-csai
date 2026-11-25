@@ -1,0 +1,12 @@
+test_conflict_rejected (test_adviser.AdviserBehaviour.test_conflict_rejected) ... ok
+test_derived_fact_cannot_be_injected (test_adviser.AdviserBehaviour.test_derived_fact_cannot_be_injected) ... ok
+test_each_required_input_is_necessary (test_adviser.AdviserBehaviour.test_each_required_input_is_necessary) ... ok
+test_full_case_records_both_dependencies (test_adviser.AdviserBehaviour.test_full_case_records_both_dependencies) ... ok
+test_known_closed_is_distinct_from_unknown (test_adviser.AdviserBehaviour.test_known_closed_is_distinct_from_unknown) ... ok
+test_missing_availability_is_unknown_not_closed (test_adviser.AdviserBehaviour.test_missing_availability_is_unknown_not_closed) ... ok
+test_update_discards_old_recommendation (test_adviser.AdviserBehaviour.test_update_discards_old_recommendation) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.000s
+
+OK

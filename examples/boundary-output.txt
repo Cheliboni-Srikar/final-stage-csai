@@ -1,0 +1,6 @@
+seats | expected | faulty | repaired
+    0 | False    | True   | False
+    1 | True     | True   | True
+    4 | True     | True   | True
+    5 | False    | False  | False
+The zero-seat test reveals the bug. All four repaired checks pass.
